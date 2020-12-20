@@ -1,6 +1,8 @@
 # password-pawn-checker
 Using the api from the pwnedpasswords.com , check how many times this password has been pawned.
 
+To achieve this, I've noted the below steps as I've understood
+
 "Step1:
 To build a password checker…
 a website which provides pawned password count from leaks eg have I been pawned..we need that API and to it we need to send the password…calling ApI via the request module
